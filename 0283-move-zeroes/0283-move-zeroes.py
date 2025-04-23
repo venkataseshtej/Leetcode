@@ -9,19 +9,6 @@ class Solution:
                 j+=1
             else:
                 j+=1
-
-
-
-
-
-
-
-
-
-
-
-
-
         """
         Do not return anything, modify nums in-place instead.
         """
